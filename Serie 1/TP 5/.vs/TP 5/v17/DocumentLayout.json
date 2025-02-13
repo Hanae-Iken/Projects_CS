@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\serie 1\\tp 5\\tp 5\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|solutionrelative:tp 5\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\serie 1\\tp 5\\tp 5\\banque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|solutionrelative:tp 5\\banque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\serie 1\\tp 5\\tp 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|solutionrelative:tp 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\serie 1\\tp 5\\tp 5\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|solutionrelative:tp 5\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\serie 1\\tp 5\\tp 5\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|solutionrelative:tp 5\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\serie 1\\tp 5\\tp 5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|solutionrelative:tp 5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\serie 1\\tp 5\\tp 5\\comptes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{328A5F99-8908-4A5C-9D2D-F94F7257290A}|TP 5\\TP 5.csproj|solutionrelative:tp 5\\comptes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "comptes.txt",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\comptes.txt",
+              "RelativeDocumentMoniker": "TP 5\\comptes.txt",
+              "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\comptes.txt",
+              "RelativeToolTip": "TP 5\\comptes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-13T13:56:46.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\appsettings.json",
+              "RelativeDocumentMoniker": "TP 5\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\appsettings.json",
+              "RelativeToolTip": "TP 5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T13:45:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilisateur.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\Utilisateur.cs",
+              "RelativeDocumentMoniker": "TP 5\\Utilisateur.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\Utilisateur.cs",
+              "RelativeToolTip": "TP 5\\Utilisateur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:44:28.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banque.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\Banque.cs",
+              "RelativeDocumentMoniker": "TP 5\\Banque.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\Banque.cs",
+              "RelativeToolTip": "TP 5\\Banque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:21:27.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\Operation.cs",
+              "RelativeDocumentMoniker": "TP 5\\Operation.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\Operation.cs",
+              "RelativeToolTip": "TP 5\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:21:00.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "TP 5\\CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\CompteBancaire.cs",
+              "RelativeToolTip": "TP 5\\CompteBancaire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:20:26.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\Program.cs",
+              "RelativeDocumentMoniker": "TP 5\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Serie 1\\TP 5\\TP 5\\Program.cs",
+              "RelativeToolTip": "TP 5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:09:01.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\bin\Debug\net8.0\TP 5.exe
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\bin\Debug\net8.0\TP 5.deps.json
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\bin\Debug\net8.0\TP 5.runtimeconfig.json
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\bin\Debug\net8.0\TP 5.dll
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\bin\Debug\net8.0\TP 5.pdb
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\TP 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\TP 5.AssemblyInfoInputs.cache
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\TP 5.AssemblyInfo.cs
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\TP 5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\TP 5.dll
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\refint\TP 5.dll
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\TP 5.pdb
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\TP 5.genruntimeconfig.cache
+C:\Users\Lenovo PC\Documents\Ginf2\s2\c #\TPS\Serie 1\TP 5\TP 5\obj\Debug\net8.0\ref\TP 5.dll
