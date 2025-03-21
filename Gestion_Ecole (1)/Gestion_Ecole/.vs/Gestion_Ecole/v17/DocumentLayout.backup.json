@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\daoeleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\iconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\iconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\eleve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\iconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|solutionrelative:gestion_ecole\\iconnexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FF59D01-6D2C-4AF0-BEFE-ACBE1742A59E}|Gestion_Ecole\\Gestion_Ecole.csproj|c:\\users\\lenovo pc\\documents\\ginf2\\s2\\c #\\tps\\gestion_ecole (1)\\gestion_ecole\\gestion_ecole\\gestion_ecole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -68,14 +68,14 @@
               "RelativeDocumentMoniker": "Gestion_Ecole\\DAOEleve.cs",
               "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\DAOEleve.cs",
               "RelativeToolTip": "Gestion_Ecole\\DAOEleve.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwBsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswGwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T11:06:17.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\Form1.cs",
               "RelativeDocumentMoniker": "Gestion_Ecole\\Form1.cs",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Gestion_Ecole\\Form1.Designer.cs",
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\Form1.cs",
               "RelativeDocumentMoniker": "Gestion_Ecole\\Form1.cs",
@@ -119,11 +119,12 @@
               "RelativeToolTip": "Gestion_Ecole\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:34:57.231Z"
+              "WhenOpened": "2025-03-13T16:34:57.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IDAO.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\IDAO.cs",
               "RelativeDocumentMoniker": "Gestion_Ecole\\IDAO.cs",
@@ -135,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Eleve.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\Eleve.cs",
               "RelativeDocumentMoniker": "Gestion_Ecole\\Eleve.cs",
@@ -147,27 +148,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Connexion.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\Connexion.cs",
               "RelativeDocumentMoniker": "Gestion_Ecole\\Connexion.cs",
               "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\Connexion.cs",
               "RelativeToolTip": "Gestion_Ecole\\Connexion.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T10:24:07.774Z"
+              "WhenOpened": "2025-03-13T10:24:07.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "IConnexion.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\IConnexion.cs",
               "RelativeDocumentMoniker": "Gestion_Ecole\\IConnexion.cs",
               "ToolTip": "C:\\Users\\Lenovo PC\\Documents\\Ginf2\\s2\\c #\\TPS\\Gestion_Ecole (1)\\Gestion_Ecole\\Gestion_Ecole\\IConnexion.cs",
               "RelativeToolTip": "Gestion_Ecole\\IConnexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T10:12:40.683Z"
+              "WhenOpened": "2025-03-13T10:12:40.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
